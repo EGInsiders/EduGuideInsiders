@@ -6,7 +6,7 @@ permalink: /review-eduguide’s-user-support-system/
 source-id: 1RCRq4WhDHJVr-H1iCarcRxceB6V4aJpQyqajiWtEt2I
 published: true
 ---
-Review EduGuide's User Support System
+## Review EduGuide's User Support System
 
 EduGuide uses several strategies to help ensure that the members of its site have a smooth experience. This includes:
 
