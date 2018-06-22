@@ -4,9 +4,11 @@
 
 ## /Blog/
 
+* [New Path features are Coming Soon](news/2018-06-22-New-Paths-are-Coming.md)
 ## /Assignments/
 
 * [Review EduGuide's User Support System](assignments/2018-06-22-Review-EduGuide’s-User-Support-System.md)
+* [Activity Sub Steps](assignments/2018-06-22-Activity-Sub-Steps.md)
 
 ## /Resources/
 
