@@ -1,14 +1,14 @@
-# Summary
+# Index
 
-* [Introduction](README.md)
+* [Home Screen](README.md)
 
-## News & Announcements
+## /News/
 
-## Assignments
+## /Assignments/
 
 * [Review EduGuide's User Support System](assignments/2018-06-22-Review-EduGuide’s-User-Support-System.md)
 
-## Resources
+## /Resources/
 
 * [EduGuide Slack](http://eduguide.slack.com)
 * [Support Site](http://eduguide.freshdesk.com)
