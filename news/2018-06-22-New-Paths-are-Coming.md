@@ -30,6 +30,10 @@ Path notifications, in the form of path reminders, comment notifications, and pa
 
 The new path system will be tested on a server that's separate from the live site or our staging site. Chances are good that if you already have an account on the site you will be able to log into this new testing site. But, since it’s temporary, you are welcome to start a brand-new account on that site.
 
+## Support Documents
+
+The release of the new Path system will trigger the creation of new support articles for the knowledgebase. I'll be sharing those as soon as they are ready.
+
 I will let everybody know when we get closer to the point when the path system is ready to test. In the meantime, if you have any questions feel free to contact me at [web@eduguide.org](mailto:web@eduguide.org).
 
 ###
