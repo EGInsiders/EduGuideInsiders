@@ -1,8 +1,8 @@
 # Index
 
-* [Home Screen](README.md)
+* [Main Page](README.md)
 
-## /News/
+## /Blog/
 
 ## /Assignments/
 
