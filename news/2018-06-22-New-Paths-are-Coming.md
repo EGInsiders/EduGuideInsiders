@@ -1,5 +1,5 @@
 ---
-title: New Paths are Coming
+title: New Path Features are Coming
 layout: post
 author: eduguidepfl
 permalink: /new-paths-are-coming/
