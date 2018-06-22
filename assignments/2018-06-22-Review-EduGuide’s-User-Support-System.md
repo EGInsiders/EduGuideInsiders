@@ -6,7 +6,7 @@ permalink: /review-eduguide’s-user-support-system/
 source-id: 1RCRq4WhDHJVr-H1iCarcRxceB6V4aJpQyqajiWtEt2I
 published: true
 ---
-## Review EduGuide's User Support System
+Review EduGuide's User Support System
 
 EduGuide uses several strategies to help ensure that the members of its site have a smooth experience. This includes:
 
@@ -48,7 +48,9 @@ Here are some of the User Flows or pages where the user support elements tend to
 
 If you'd like to run through any of these flows but need help just let me know and I can get you started. Our Knowledgebase articles can be viewed inside the widget that appears when you click "Help & Feedback," or in our support site at [http://eduguide.freshdesk.com](http://eduguide.freshdesk.com).
 
-Share your feedback, questions, or thoughts inside the #v_betatesting Slack channel. Or send me email at web@eduguide.org.
+Share your feedback, questions, or thoughts inside the #v_betatesting Slack channel. Or send me email at [web@eduguide.org](mailto:web@eduguide.org).
+
+If you haven't yet, you can [register as a beta tester here](https://www.volunteermatch.org/search/org1019195.jsp):
 
 ###
 
