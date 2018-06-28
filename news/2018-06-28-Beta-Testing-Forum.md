@@ -14,5 +14,7 @@ The forum can be [accessed here](http://eduguide.freshdesk.com/support/discussio
 
 If you find that you're unable to access the page, let me know and I’ll make any necessary changes.
 
-This is also a great way to stay in the loop on the issues or changes that other testers are sharing..
+This is also a great way to stay in the loop on the issues or changes that other testers are sharing.
+
+You are also welcome to ask questions and share feedback in Slack.
 
