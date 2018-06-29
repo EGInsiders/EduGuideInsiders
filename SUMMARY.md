@@ -4,10 +4,7 @@
 
 ## /Blog/
 * [EduGuide Insiders Update June 29, 2018](news/2018-06-29-EduGuide-Insider--June-29,-2018.md)
-
-## /Archive/
-* [Activity Sub Steps](assignments/2018-06-22-Activity-Sub-Steps.md)
-* [New Path features are Coming Soon](news/2018-06-22-New-Paths-are-Coming.md)
+* [Review EduGuide's User Support Systemd](assignments/2018-06-22-Review-EduGuide’s-User-Support-System.md)
 
 ## /Resources/
 
