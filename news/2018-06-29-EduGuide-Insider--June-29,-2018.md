@@ -49,5 +49,7 @@ Contact me at [jon@eduguide.org](mailto:jon@eduguide.org) if you would like to p
 
 I will also be posting updates and links to resources inside a document here. You can [view the information on the web](https://eduguideinsiders.gitbooks.io/eduguideinsiders/content/), or download the [document as a PDF](https://legacy.gitbook.com/download/pdf/book/eduguideinsiders/eduguideinsiders).
 
-If you would like to refer friends or colleagues to our volunteer programs, direct them to [EduGuide's profile on Volunteer Match here](https://www.volunteermatch.org/search/org1019195.jsp).
+If you would like to refer friends or colleagues to our volunteer editor or user testing programs, please direct them to [EduGuide's profile on Volunteer Match here](https://www.volunteermatch.org/search/org1019195.jsp).
+
+###
 
