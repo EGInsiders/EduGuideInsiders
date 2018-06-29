@@ -48,7 +48,7 @@ If you want to save a custom view, you can do so by clicking "save" inside the l
 
 Each record gives you different types of information: document title, phase, status, group, production start date, target publication date, and linked google doc.
 
-The status and the target publication date will give you an idea of the priority level of the document. The linked google doc will be embedded into the record, but it is better to edit the google doc inside its own window. You can do this by right clicking on the document's title below the iframe where the preview is shown. This allows you to open up the document inside a separate tab or window, and when you’re done you will be able to return to the record inside Podio.
+The status and the target publication date will give you an idea of the priority level of the document. A preview of the google doc will be displayed into the record, but it is better to edit the google doc inside its own window. You can do this by right clicking on the document's title below the iframe where the preview is shown. This allows you to open up the document inside a separate tab or window, and when you’re done you will be able to return to the record inside Podio.
 
 ![image alt text]({{ site.url }}/public/bPqtaObtDYQXzEeSr1IFfQ_img_3.png)
 
@@ -56,7 +56,7 @@ The status and the target publication date will give you an idea of the priority
 
 The best place to communicate changes while you are editing the Google document is within the document itself. The changes you mark inside the document will appear as crossouts or suggested text, and will be tagged by a comment along the side. You can also share questions or general suggestions by highlighting a portion of text, and then clicking on the comment button to start a new comment. The project manager is alerted of new comments in the document.
 
-You can also share comments or questions inside the Slack channel.
+You can also share comments or questions inside the editor's Slack channel. Slack is used for general communication.
 
 ### Logging your review
 
@@ -65,8 +65,6 @@ When you are done editing the document, added your name in the "Edited by" field
 ![image alt text]({{ site.url }}/public/bPqtaObtDYQXzEeSr1IFfQ_img_4.png)
 
 ## Editing Assignment Updates
-
-I will occasionally post editorial updates and links to assignments inside the Slack channel. I typically will point you to a specific list of documents by including a link to a filtered view. You can use that link, or just use the saved view on the left hand menu.
 
 Knowledgebase articles are usually given one or two weeks for editing before their scheduled publication date. If there are a lot of questions about the articles, they can be pulled from the publication schedule for deeper review and then rescheduled in the future.
 
@@ -77,4 +75,6 @@ For the most part, knowledgebase articles are written in a friendly, knowledgeab
 Once an article is completed in Google Docs, it is pasted into a new knowledgebase entry on [http://eduguide.freshdesk.com](http://eduguide.freshdesk.com). In this process, most formatting and the images are saved, but other enhancements such as line spacing, tables, and image alignment are lost. So, it is important that the text in the Google docs is kept relatively simple.
 
 The shorter articles will typically fit together to give a longer explanation of how a feature works. So, if an article feels incomplete, keep in mind that there may be other articles which exist or which are planned which will give additional information. But, feel free to get clarification.
+
+###
 
