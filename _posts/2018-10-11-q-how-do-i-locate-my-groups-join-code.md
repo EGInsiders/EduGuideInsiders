@@ -9,8 +9,6 @@ permalink: >
 published: true
 post_date: 2018-10-11 18:14:39
 ---
-<h2>Q:</h2>
-<h1>How do I locate my group’s join code?</h1>
 <h2>A:</h2>
 You can find a group’s join code by first clicking on the “Invite Members” button located to the left of the group’s title.
 
