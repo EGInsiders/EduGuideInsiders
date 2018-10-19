@@ -11,8 +11,8 @@ permalink: >
 published: true
 post_date: 2018-08-07 13:21:54
 ---
-<h2>Viewing Students’ saved highlights in Metrics Page</h2>
 <p><img src="http://cyberland.gazerbeam.com/wp-content/uploads/2018/08/null-28.png" width="273" height="32" alt="" title=""></p>
+<p></p>
 <p>When students encounter a word that trips them up, they can use EduGuide’s literacy tool to look up its definition or translation.</p>
 <p>EduGuide’s Metrics tool includes a report on the number of words that students have looked up in the path.</p>
 <p><img src="http://cyberland.gazerbeam.com/wp-content/uploads/2018/08/null-29.png" width="273" height="140" alt="" title=""></p>
