@@ -10,11 +10,11 @@ published: true
 post_date: 2018-07-31 16:38:31
 ---
 <p>Cheers can be used to encourage another user on the site. </p>
-<h2>From the path metrics page</h2>
+<h2>From the path metrics page:</h2>
 <p></p>
 <ol>
-<li>Click on the Thumbs up icon next to the student’s post</li>
-<li>The cheer counter next to the icon will increase</li>
+<li>Click on the Thumbs Up icon next to the student’s post.</li>
+<li>The cheer counter next to the icon will increase.</li>
 </ol>
 <p></p>
 <p><img src="http://cyberland.gazerbeam.com/wp-content/uploads/2018/07/null-14.png" width="600" height="74" alt="" title=""></p>
