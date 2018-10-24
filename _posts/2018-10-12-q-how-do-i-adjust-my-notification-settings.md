@@ -9,10 +9,6 @@ permalink: >
 published: true
 post_date: 2018-10-12 15:59:42
 ---
-<h2>Q:</h2>
-How do I adjust my notification settings?
-
-Including path comment notifications, weekly and daily path reports, and team reminders.
 <h2>A:</h2>
 <img title="" src="http://cyberland.gazerbeam.com/wp-content/uploads/2018/10/null.png" alt="" width="249" height="226" />
 
