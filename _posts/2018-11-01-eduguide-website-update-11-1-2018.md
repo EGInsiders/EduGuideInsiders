@@ -9,7 +9,6 @@ permalink: >
 published: true
 post_date: 2018-11-01 13:08:25
 ---
-<h2>EduGuide Website Update 11/1/2018</h2>
 This week, EduGuide rolled out a number of features and improvements for its website:
 <ol>
  	<li><b>“Fake answers” detection. </b>The site can now detect when students attempt to defeat the word count minimum by entering in placeholder text; for example, the same repeated word or nonsense words. Starting this week, if a student enters a response to a question that appears to be nonsense, a message will appear on the page which politely asks them to revise their response.</li>
