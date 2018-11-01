@@ -67,7 +67,7 @@ post_date: 2018-11-01 13:09:00
 <p></p>
 <ol>
 <li>Double check your group filters, to confirm that you have selected the correct group.</li>
-<li>Search for the student in the Member Management page.</li>
+<li>Search for the student in the Member Management page and then add them to a group.</li>
 </ol>
 <p></p>
 <p>###</p>
