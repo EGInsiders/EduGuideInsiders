@@ -28,23 +28,23 @@ post_date: 2018-11-01 13:09:00
 <h3>Customizing Avatar and Starting Path</h3>
 <p>Upon joining the site, students will be prompted to customize their avatar, then taken to the first activity in the path. While students are members of the team, much like coaches are, they are not shown the team pages or presented with the same team member experience. Instead, they can only access their path and related pages, personal dashboard, and account settings.</p>
 <h2>Returning to the site</h2>
-<p>Students do not need to enter in the join code each time that they log into the site, and in fact do not need the code once they have an account. Instead, students with existing accounts can login either from the homepage or the address http://login.eduguide.org.</p>
-<p>When Students log into the site, their path will resume on the activity that they last left off on.</p>
+<p>Students do not need to enter in the join code each time  they log into the site, and in fact, do not need the code once they have an account. Instead, students with existing accounts can login either from the homepage or the address http://login.eduguide.org.</p>
+<p>When students log into the site, their path will resume on the activity that they last left off on.</p>
 <h2>Common Student Account or Team-Related issues</h2>
 <p>As there are a number of steps which students need to complete before they are able to access their paths, there are sometimes issues which come up. The following is a description of a few of the common issues and some solutions to try.</p>
-<h3>Student can not log into their Account</h3>
+<h3>Student cannot log into their account</h3>
 <h4>Description:</h4>
 <p></p>
-<p>Student tries to log in, but is told that their password or username is invalid.</p>
+<p>Student tries to log in but is told that their password or username is invalid.</p>
 <h4>Solution:</h4>
 <ol>
-<li>Confirm that they are entering in their email address and their password correctly. If they are, confirm that they are using the same spelling they used when they originally registered on the site. Sometimes, students introduce typos into their email addresses which can be missed initially. If there is a variation, they should enter in their email address exactly the same way that they entered it when they registered, then change it in their personal settings page.</li>
+<li>Confirm that they are entering in their email address and their password correctly. If they are, confirm that they are using the same spelling they used when they originally registered on the site. Sometimes students introduce typos into their email addresses, which can be missed initially. If there is a variation, they should enter in their email address exactly the same way that they entered it when they registered, then change it in their personal settings page.</li>
 <li>Change the student’s password and/or email address in the Member Management page within your team.</li>
 <li>If the student suspects that their password is wrong, suggest that they request a password reset. There is a link that they can click in order to request the reset.</li>
 </ol>
 <h3>Student is on the site, but they are not on the team</h3>
 <h4>Description:</h4>
-<p>Student has logged on, but has been taken to their personal dashboard instead of the path. When they open up the main menu, the link for their Path is not visible.</p>
+<p>Student has logged on but has been taken to their personal dashboard instead of the path. When they open up the main menu, the link for their path is not visible.</p>
 <h4>Solution:</h4>
 <ol>
 <li>Ask them to log out and then log back in again. Instruct them to enter your group join code as they are logging in. This should add them to your group and activate their path subscription.</li>
@@ -66,7 +66,7 @@ post_date: 2018-11-01 13:09:00
 <p>Solution</p>
 <p></p>
 <ol>
-<li>Double check your group filters, to confirm that you have selected the correct group.</li>
+<li>Double check your group filters to confirm that you have selected the correct group.</li>
 <li>Search for the student in the Member Management page and then add them to a group.</li>
 </ol>
 <p></p>
